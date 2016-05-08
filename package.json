@@ -1,0 +1,26 @@
+{
+  "name": "greenhoney",
+  "version": "2.0.0",
+  "description": "An analysis and visualisation of English and Chinese use of colour names.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muyueh/greenhoney.git"
+  },
+  "keywords": [
+    "d3",
+    "livescript",
+    "colours",
+    "languages",
+    "visualisation"
+  ],
+  "author": "Muyueh Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muyueh/greenhoney/issues"
+  },
+  "homepage": "https://github.com/muyueh/greenhoney#readme"
+}
