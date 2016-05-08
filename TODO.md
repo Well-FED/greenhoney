@@ -1,11 +1,12 @@
 # To do
 
-- Add an appropriate licence (MIT? CC? etc)
-- Add Node environment settings
-- Describe setting up the development environment and associated tasks
-- Convert to packages.json for relevent dependencies
-- Separate source files from distribution files. i.e. `src` and `build` separation.
-- Add favicon.ico
+- [X] Add Github boilerplate.
+- [ ] Add an appropriate licence (MIT? CC? etc)
+- [X] Add Node environment settings.
+- [ ] Describe setting up the development environment and associated tasks
+- [X] Convert to packages.json for relevent dependencies.
+- [ ] Separate source files from distribution files. i.e. `src` and `build` separation.
+- [ ] Add favicon.ico
 
 # Consider
 

@@ -13,6 +13,12 @@ Different languages have different ways of describing colour. Using English and 
 - Node.js
 - LiveScript
 
+## Setup
+
+```
+npm install
+```
+
 ## Credits
 
 - Green Honey was developed by Muyueh Lee and contributors
